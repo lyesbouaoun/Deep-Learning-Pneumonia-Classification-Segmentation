@@ -1,0 +1,20 @@
+# dataset
+data_effi/
+dataset/
+
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+
+
+# modèles
+*.pth
+*.pt
+
+# logs
+*.csv
